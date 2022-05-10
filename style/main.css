@@ -76,3 +76,18 @@ header nav a:hover {
 .botao i {
     margin-right: 08px;
 }
+.filme-principal .container {
+    width: 60%;
+    
+}
+.box-file {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.carrosel-filmes {
+    margin-top: 5px;
+}
+.container {
+    margin-left: 25px;
+}
